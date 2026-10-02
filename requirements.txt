@@ -1,0 +1,7 @@
+numpy
+pandas
+matplotlib
+notebook
+
+# Optional: only needed for the LLM narration section
+# anthropic
